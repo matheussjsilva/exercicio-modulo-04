@@ -67,3 +67,9 @@ a {
     transform: scale(1.2);
     filter: grayscale(30);
 }
+
+img.perfil {
+    border: rgb(192, 190, 190) solid 5px;
+
+    border-radius: 100px;
+}
