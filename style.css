@@ -34,7 +34,15 @@ article {
     background-color: #f1f1f1;
 }
 
+
 section::after {
+    background: #777;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
